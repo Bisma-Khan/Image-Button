@@ -1,0 +1,15 @@
+    /* Style the button */
+    .svg-button {
+        display: inline-block;
+    padding: 0px 20px;
+    background-color: transparent;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    }
+  
+    /* Style the button hover effect */
+    .svg-button:hover {
+      background-color: #5e646b;
+    }
